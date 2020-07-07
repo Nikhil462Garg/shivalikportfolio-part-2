@@ -1,7 +1,7 @@
 *{margin:0; padding: 0; box-sizing: border-box; font-family: 'Josefin Sans', sans-serif;}
 header{
 	height: 100vh;
-	background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url('../img/taj.jpg');
+	background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url('taj.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	/*background-color: black;*/
